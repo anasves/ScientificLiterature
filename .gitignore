@@ -1,0 +1,5 @@
+.idea/*
+ArticlesForPASB/logs/*
+ArticlesForPASB/data/*
+ArticlesForPASB/output/*
+ArticlesForPASB/config.json
